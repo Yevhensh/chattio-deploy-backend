@@ -1,7 +1,5 @@
 
 INSERT INTO users (id_user, active, email, full_name, password) VALUES (1, true, 'yevhen@gmail.com', 'Yevhen Shabala', '$2a$10$OBMIi1jhDlfD7pJj7GP.6Oy2qgk8I0PCTeoc/8YhWKiYBxK4e3b2K');
-INSERT INTO users (id_user, active, email, full_name, password) VALUES (2, true, 'someone@gmail.com', 'Some Another', '$2a$10$OBMIi1jhDlfD7pJj7GP.6Oy2qgk8I0PCTeoc/8YhWKiYBxK4e3b2K');
-INSERT INTO users (id_user, active, email, full_name, password) VALUES (3, true, 'vilat@gmail.com', 'Vilat', '$2a$10$OBMIi1jhDlfD7pJj7GP.6Oy2qgk8I0PCTeoc/8YhWKiYBxK4e3b2K');
 
 INSERT INTO user_roles (user, role) VALUES (1, 0);
 INSERT INTO user_roles (user, role) VALUES (2, 1);
