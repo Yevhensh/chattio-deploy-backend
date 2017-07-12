@@ -25,9 +25,13 @@
       <sourceFolder url="file://$MODULE_DIR$/target/generated-sources/apt" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/target/generated-sources/annotations" isTestSource="false" generated="true" />
       <excludeFolder url="file://$MODULE_DIR$/target/apache-tomcat-maven-plugin" />
+      <excludeFolder url="file://$MODULE_DIR$/target/chattio-backend-1.0-SNAPSHOT" />
       <excludeFolder url="file://$MODULE_DIR$/target/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/target/dependency" />
+      <excludeFolder url="file://$MODULE_DIR$/target/maven-archiver" />
       <excludeFolder url="file://$MODULE_DIR$/target/maven-status" />
       <excludeFolder url="file://$MODULE_DIR$/target/tomcat" />
+      <excludeFolder url="file://$MODULE_DIR$/target/tomcat.8080" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
